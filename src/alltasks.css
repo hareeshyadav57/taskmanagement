@@ -1,0 +1,53 @@
+.full-height {
+    height: 100%;
+}
+
+.todocontent {
+    margin: 20px;
+}
+
+h3 {
+    margin-bottom: 20px;
+    font-size: 24px;
+}
+
+.txtbox {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+th, td {
+    border: 1px solid #e0e0e0;
+    padding: 12px;
+}
+
+th {
+    background-color: rgba(232, 129, 3, 0.92);
+    text-align: left;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+td {
+    font-size: 14px;
+}
+
+tbody tr:nth-child(even) {
+    background-color: #fafafa;
+}
+
+tbody tr:hover {
+    background-color: #f0f0f0;
+}

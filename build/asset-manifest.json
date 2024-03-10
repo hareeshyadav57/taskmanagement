@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.895cf21f.css",
+    "main.js": "/static/js/main.c5a07325.js",
+    "static/media/loginbg.jpg": "/static/media/loginbg.64f7671a24767b200eb4.jpg",
+    "static/media/hiranmai@klu.in.jpg": "/static/media/hiranmai@klu.in.634cd0034ec1432bde3f.jpg",
+    "static/media/2200033143@tms.in.jpg": "/static/media/2200033143@tms.in.3db1efce7b47bd75c39d.jpg",
+    "static/media/new@gmail.com.jpg": "/static/media/new@gmail.com.3db1efce7b47bd75c39d.jpg",
+    "static/media/TMS.png": "/static/media/TMS.40f498349bcbfc253887.png",
+    "static/media/openeye.png": "/static/media/openeye.54b3107d160578572bcc.png",
+    "static/media/closedeye.png": "/static/media/closedeye.180932f866861728bd41.png",
+    "index.html": "/index.html",
+    "main.895cf21f.css.map": "/static/css/main.895cf21f.css.map",
+    "main.c5a07325.js.map": "/static/js/main.c5a07325.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.895cf21f.css",
+    "static/js/main.c5a07325.js"
+  ]
+}

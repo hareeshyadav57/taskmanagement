@@ -1,0 +1,44 @@
+.full-height {
+    height: 100vh; /* Ensure full viewport height */
+}
+
+
+.addusercontent {
+    margin: auto;
+    width: 40%; /* Adjust the width according to your preference */
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+
+.txtbox {
+    width: calc(100% - 20px); /* Adjusted width */
+    padding: 6px;
+    margin: 5px 0;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px; /* Reduced font size */
+}
+
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 8px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px; /* Reduced font size */
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.button:hover {
+    background-color: #45a049;
+}
+
+/* Add more styling as needed */

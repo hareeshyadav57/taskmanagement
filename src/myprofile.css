@@ -1,0 +1,12 @@
+.tablestyle{
+    width: 100%;
+}
+
+.tablestyle .firstcolumn{
+    width: 120px;
+    padding: 10px;
+}
+.imgStyle{
+    width: 100px;
+    height: 100px;
+}
